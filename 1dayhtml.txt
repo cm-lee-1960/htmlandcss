@@ -195,3 +195,8 @@ height : inherit, 100%
 margin-left:auto;
 margin-right:auto;
 // 크기를 줄여도 가운데로 보이게끔하는기능
+
+박스를 옆으로 쌓고 싶어도
+아래로 계속 쌓여진다.
+
+박스를 옆으로 쌓고 싶으면 포지션 방법 flex방법이 사용된다.
